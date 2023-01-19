@@ -10,8 +10,5 @@
 {"sourceName":"🌙影视仓②","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/2.json"},
 {"sourceName":"🌙影视仓③","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/3.json"},
 {"sourceName":"🌙影视仓④","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/4.json"},
-{"sourceName":"  ①号库
-","sourceUrl":"      https://box.nxog.top/1
-"},
 
 { "sourceName": "30号仓库", "sourceUrl": "http://5.nxog.top/m/dc/api/api/21/tv/update_yuan" } ] }
