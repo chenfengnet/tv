@@ -13,16 +13,5 @@
 {"sourceName":"  ①号库
 ","sourceUrl":"      https://box.nxog.top/1
 "},
-  
 
-{ "sourceName": "20号仓库", "sourceUrl": "http://5.nxog.top/m/dc/api/api/20/tv/update_yuan" },
-
-
-{ "sourceName": "23号仓库", "sourceUrl": "https://gitcode.net/go/go/-/raw/o/ck_2.bin" }, 
-{ "sourceName": "24号仓库", "sourceUrl": "https://agit.ai/66666/mao/raw/commit/0ec2c15e9a1a0df2ae6c44b4d7d7a4083d6d6f77/00/xx/0update_yuan" }, 
-{ "sourceName": "25号仓库", "sourceUrl": "https://agit.ai/zqk219/baip/raw/branch/master/zqk19.json" }, 
-{ "sourceName": "26号仓库", "sourceUrl": "https://agit.ai/zqk219/baip/raw/branch/master/1" }, 
-{ "sourceName": "27号仓库", "sourceUrl": "https://agit.ai/zqk219/baip/raw/branch/master/6" }, 
-{ "sourceName": "28号仓库", "sourceUrl": "https://agit.ai/zqk219/baip/raw/branch/master/7" }, 
-{ "sourceName": "29号仓库", "sourceUrl": "http://5.nxog.top/m/dc/api/api/20/tv/update_yuan" },  
 { "sourceName": "30号仓库", "sourceUrl": "http://5.nxog.top/m/dc/api/api/21/tv/update_yuan" } ] }
