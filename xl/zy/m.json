@@ -1,5 +1,6 @@
 //以下内容为互联网收集，只为自用……
-{
+{"spider":"https://download.kstore.space/download/2883/1122yqk.jar;md5;591bf6a064fb74746d4581fe75f2e715",
+"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2NoZW5mZW5nbmV0L3R2QG1hc3Rlci94bC96eS90dmxpdmUudHh0"]}]}],
 "sites": [
 {"key":"csp_LiteApple","name":"奥科超清","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
