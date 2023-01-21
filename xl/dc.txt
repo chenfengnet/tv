@@ -1,7 +1,7 @@
         {
     "urls":[
         {
-            "url": "https://fastly.jsdelivr.net/gh/chenfengnet/tv@master/xl/zy/m.json",
+            "url": "https://cdn.jsdelivr.net/gh/chenfengnet/tv@main/xl/zy/m.json",
             "name": "奥科推荐"
         },
 	{
