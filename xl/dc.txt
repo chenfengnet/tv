@@ -1,7 +1,7 @@
         {
     "urls":[
         {
-            "url": "https://gitcdn.top/https://github.com/chenfengnet/tv/blob/main/xl/dc.txt",
+            "url": "https://gitcdn.top/https://github.com/chenfengnet/tv/blob/main/xl/zy/m.json",
             "name": "奥科推荐"
         },
 	{
